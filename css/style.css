@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+    padding: 0%;
+    margin: 0%;
+}
+section{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.left-side{
+    width: 48%;
+}
+.right-side{
+    width: 48%;
+}
+
+img{
+    width: 100%;
+}
+
+.experience-area{
+    display: flex;
+}
+
+
+/* navber section start */
+.container{
+    width: 1200px;
+}
+#navber{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navber-left{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.navber-right{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+/* navber section end */
